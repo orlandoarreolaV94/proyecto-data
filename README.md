@@ -15,3 +15,5 @@ disponibles en la aplicación.
 
 1. Instala las dependencias: `pip install -r requirements.txt`
 2. Ejecuta: `streamlit run app.py`
+
+## Aplicación desplegada Puedes ver la app en funcionamiento aquí: https://vehicles-app-icur.onrender.com
